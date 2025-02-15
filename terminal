@@ -1,0 +1,11 @@
+mkdir music_emotion_recommender
+cd music_emotion_recommender
+mkdir data models src utils web
+echo. > requirements.txt
+cd src
+echo. > emotion_detector.py
+echo. > audio_processor.py
+echo. > recommender.py
+echo. > app.py
+cd ..
+pip install -r requirements.txt 

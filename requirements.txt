@@ -1,0 +1,14 @@
+numpy
+pandas
+librosa
+tensorflow
+opencv-python
+mediapipe
+streamlit
+matplotlib
+scikit-learn
+soundfile
+tqdm
+gdown
+requests
+pygame 
